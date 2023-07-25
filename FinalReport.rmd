@@ -87,10 +87,16 @@ fisher.test(table1)
 ```
 
 
-If you get the vaccine  you are .3534 less likely to get aids. 
+The Chi-squared value is .0000001242 is too small, so vaccine is effective in preventing spread of aids among drug users.
 
-If you take the placebo you are 3X more likely to have aids.
+Based on the Fisher's Exact vaccine  you are 0.35 less likely to get aids. 
+
+We will reject the null hypothesis.If you take the placebo you are 3X more likely to have aids.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The original question was, vaccine(drug) is not effective in preventing aids among drug users.Based on the Data provided we have found that the drug was effective in preventing the spread in aids among drug users.
+ 
+
