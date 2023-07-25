@@ -73,7 +73,7 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
-Among the people who had aids 3X as many did have aids with the placebo. Among the people that had the drug they were more likely to not have aids more affectively.  
+Among the people who had aids 3X as many did have aids with the placebo then the people who received treatment. Among the people that had the drug they were more likely to not have aids.  
 
 ## Inferential Results
 
